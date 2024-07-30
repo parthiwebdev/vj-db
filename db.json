@@ -1,0 +1,18 @@
+{
+  "roommates": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "rent": "1000",
+      "pending": "pending",
+      "date": "16-12-1998",
+    }
+  ],
+  "roomrent": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "This is a post content"
+    }
+  ]
+}
